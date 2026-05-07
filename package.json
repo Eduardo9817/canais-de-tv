@@ -1,0 +1,13 @@
+{
+  "name": "stremio-m3u-auto",
+  "version": "2.0.0",
+  "description": "Addon Stremio que lê listas M3U automaticamente",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10",
+    "iptv-playlist-parser": "^0.7.1"
+  }
+}
